@@ -5,6 +5,8 @@
  * Date: 01/06/2017
  * Time: 00:38
  */
+
+//dsdd
 ?>
 <script src="public/assets/js/vendor/respond.min.js"></script>
 <script src="public/assets/js/vendor/placeholdem.min.js"></script>
